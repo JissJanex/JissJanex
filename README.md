@@ -48,10 +48,6 @@ Hi, I'm Jiss Janex, a Computer Science Engineering student who enjoys building s
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JissJanex&theme=dark&hide_border=true&layout=compact&langs_count=8)
 
-## 📈 Contribution Graph:
-
-[![Jiss Janex's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JissJanex&theme=github-dark&hide_border=true)](https://github.com/JissJanex)
-
 ---
 
 ### 👀 Profile Views
